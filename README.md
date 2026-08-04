@@ -1,0 +1,1 @@
+# Analiz-bezopasnosti-ITD-v1.0.13
